@@ -14,11 +14,14 @@ Este repositorio incluye resúmenes ejecutivos bilingües, visuales simulados y 
 
 ## 📁 Repository Structure / Estructura del Repositorio
 
-| Folder | Description (EN) | Descripción (ES) |
-|--------|------------------|------------------|
-| `/executive-summary/` | Bilingual executive summaries in PDF format | Resúmenes ejecutivos bilingües en formato PDF |
-| `/visuals/` | Simulated charts and diagrams | Gráficos y diagramas simulados |
-| `/markdown/` | Reproducible documentation blocks | Bloques de documentación reproducible |
+| Folder / Carpeta | Description (EN) | Descripción (ES) |
+|------------------|------------------|------------------|
+| `/docs/`         | Institutional and executive documentation (PDFs, tables, summaries) | Documentación institucional y ejecutiva (PDFs, tablas, resúmenes) |
+| `/notebooks/`    | Reproducible Jupyter notebooks with simulations, visualizations, and metrics | Notebooks Jupyter reproducibles con simulaciones, visualizaciones y métricas |
+| `/code/`         | Python scripts for model training, validation, and evaluation | Scripts en Python para entrenamiento, validación y evaluación del modelo |
+| `/assets/`       | Images, diagrams, and visual resources used in documentation | Imágenes, diagramas y recursos visuales utilizados en la documentación |
+| `/markdown/`     | Reproducible Markdown blocks (team, PACE model, timeline) | Bloques Markdown reproducibles (equipo, modelo PACE, cronograma) |
+
 
 ---
 
