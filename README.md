@@ -1,15 +1,9 @@
-# Taxi-fare-estimation-automatidata
-# 🚕 Taxi Fare Estimation – Automatidata TLC  
-# 📘 Estimación de Tarifas de Taxi – Automatidata TLC
 
-**EN:**  
-Documentation for the Taxi Fare Estimation project – Automatidata TLC.  
-This repository includes bilingual executive summaries, simulated visuals, and reproducible resources aligned with the PACE model. It is designed to support mentoring processes, institutional alignment, and ethical practices in data science.
+# 📘 Automatidata: Ingeniería de Datos Urbanos
 
-**ES:**  
-Documentación del proyecto de estimación de tarifas de taxi – Automatidata TLC.  
-Este repositorio incluye resúmenes ejecutivos bilingües, visuales simulados y recursos reproducibles alineados con el modelo PACE. Está diseñado para apoyar procesos de mentoring, alineación institucional y prácticas éticas en ciencia de datos.
+ES: Preparación y estructuración de datos masivos de la TLC de NYC. Incluye limpieza de anomalías, ingeniería de variables (Factor Tráfico) y análisis de eficiencia operativa para modelos predictivos de tarifas.
 
+EN: Data engineering and structuring for NYC TLC massive datasets. Features anomaly cleaning, feature engineering (Traffic Factor), and operational efficiency analysis for fare prediction models.
 ---
 
 ## 📁 Repository Structure / Estructura del Repositorio
