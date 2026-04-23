@@ -4,7 +4,7 @@
 ES: Preparación y estructuración de datos masivos de la TLC de NYC. Incluye limpieza de anomalías, ingeniería de variables (Factor Tráfico) y análisis de eficiencia operativa para modelos predictivos de tarifas.
 
 EN: Data engineering and structuring for NYC TLC massive datasets. Features anomaly cleaning, feature engineering (Traffic Factor), and operational efficiency analysis for fare prediction models.
----
+
 
 ## 📁 Repository Structure / Estructura del Repositorio
 
