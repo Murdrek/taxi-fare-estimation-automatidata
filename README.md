@@ -23,10 +23,8 @@ ES: El proyecto fue desarrollado en Python, utilizando Pandas y NumPy para la ma
 
 ## 🎯 Purpose / Propósito
 
-**EN:**  
-This repository supports the ethical and strategic development of data science projects through transparent documentation, modular resources, and bilingual communication. It is part of the Automatidata initiative in collaboration with TLC.
-**ES:**  
-Este repositorio respalda el desarrollo ético y estratégico de proyectos de ciencia de datos mediante documentación transparente, recursos modulares y comunicación bilingüe. Forma parte de la iniciativa Automatidata en colaboración con TLC.
+**EN:** This repository supports the ethical and strategic development of data science projects through transparent documentation, modular resources, and bilingual communication. It is part of the Automatidata initiative in collaboration with TLC.  
+**ES:** Este repositorio respalda el desarrollo ético y estratégico de proyectos de ciencia de datos mediante documentación transparente, recursos modulares y comunicación bilingüe. Forma parte de la iniciativa Automatidata en colaboración con TLC.
 
 ---
 
