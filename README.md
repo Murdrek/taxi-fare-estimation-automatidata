@@ -38,10 +38,8 @@ ES: El proyecto fue desarrollado en Python, utilizando Pandas y NumPy para la ma
 
 ## 📜 License / Licencia
 
-**EN:**  
+**EN:**  This project is shared under an open documentation framework for mentoring and institutional use. Please cite appropriately when reusing or adapting content.
+**ES:**  Este proyecto se comparte bajo un marco abierto de documentación para uso en mentoring y entornos institucionales. Por favor, citar adecuadamente al reutilizar o adaptar el contenido.
 
-This project is shared under an open documentation framework for mentoring and institutional use. Please cite appropriately when reusing or adapting content.
-**ES:**  
-Este proyecto se comparte bajo un marco abierto de documentación para uso en mentoring y entornos institucionales. Por favor, citar adecuadamente al reutilizar o adaptar el contenido.
-
-
+Status: 🟡 In Progress | Data Prepared for Statistical Analysis & Hypothesis Testing.
+        🟡 In Progress |  Datos preparados para Análisis Estadístico y Pruebas de Hipótesis.
