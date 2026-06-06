@@ -12,8 +12,8 @@
 **ES:** El modelo de regresión lineal múltiple fue entrenado y validado utilizando características estandarizadas (StandardScaler), demostrando una excelente capacidad de generalización y ausencia total de sobreajuste (overfitting):
 **EN:** The multiple linear regression model was trained and validated using standardized features (StandardScaler), demonstrating excellent generalization capability and zero overfitting:
 
-* **Train Data:** R2 = 0.8399  | MAE = 2.20  | RMSE = 4.23$
-* **Test Data:** R2 = 0.8725  |  MAE = \$2.12 | RMSE = 3.72$
+* **Train Data:** R2 = 0.8399  | MAE = 2.20  | RMSE = 4.23
+* **Test Data:** R2 = 0.8725  |  MAE = 2.12 | RMSE = 3.72
 
 ### Feature Importance / Impacto de las Variables
 * **mean_distance (β=7.4771):
