@@ -12,17 +12,27 @@
 **ES:** El modelo de regresión lineal múltiple fue entrenado y validado utilizando características estandarizadas (StandardScaler), demostrando una excelente capacidad de generalización y ausencia total de sobreajuste (overfitting):
 **EN:** The multiple linear regression model was trained and validated using standardized features (StandardScaler), demonstrating excellent generalization capability and zero overfitting:
 
-* **Train Data:** $R^2 = 0.8399 \ | \ \text{MAE} = \$2.20 \ | \ \text{RMSE} = 4.23$
-* **Test Data:** $R^2 = 0.8725 \ | \ \text{MAE} = \$2.12 \ | \ \text{RMSE} = 3.72$
+* **Train Data:** R2 = 0.8399  | MAE = 2.20  | RMSE = 4.23$
+* **Test Data:** R2 = 0.8725  |  MAE = \$2.12 | RMSE = 3.72$
 
 ### Feature Importance / Impacto de las Variables
-* **mean_distance (β=7.4771):** **ES:** El predictor dominante. Cada incremento de una desviación estándar en la distancia de la ruta añade $7.48 a la tarifa. **EN:** The dominant predictor. Every one standard deviation increase in route distance adds $7.48 to the fare.
-* **mean_duration (β=2.4249):** **ES:** Segundo factor clave. La distancia influye tres veces más que el tiempo transcurrido en el vehículo. **EN:** Second key driver. Distance influences the final price three times more than the time spent inside the vehicle.
-* **rush_hour (β=0.1525) & VendorID_2 (β=−0.0275):** **ES:** Impacto marginal o nulo, demostrando neutralidad de proveedores y que el costo del tráfico pesado ya es absorbido por la duración. **EN:** Marginal or negligible impact, proving vendor neutrality and that heavy traffic costs are already captured by duration.
+* **mean_distance (β=7.4771):
+  
+* ** **ES:** El predictor dominante. Cada incremento de una desviación estándar en la distancia de la ruta añade $7.48 a la tarifa.
+* **EN:** The dominant predictor. Every one standard deviation increase in route distance adds $7.48 to the fare.
+* **mean_duration (β=2.4249):
+  
+* ** **ES:** Segundo factor clave. La distancia influye tres veces más que el tiempo transcurrido en el vehículo.
+* **EN:** Second key driver. Distance influences the final price three times more than the time spent inside the vehicle.
+* **rush_hour (β=0.1525) & VendorID_2 (β=−0.0275):
+
+* ** **ES:** Impacto marginal o nulo, demostrando neutralidad de proveedores y que el costo del tráfico pesado ya es absorbido por la duración.
+* **EN:** Marginal or negligible impact, proving vendor neutrality and that heavy traffic costs are already captured by duration.
 
 ---
 
 ## 🛠️ Tools & Libraries / Herramientas y Librerías
+
 **ES:** El proyecto fue desarrollado en Python, utilizando Pandas y NumPy para la manipulación de datos, Scikit-Learn para el modelado estadístico y escalado, y Matplotlib/Seaborn para visualización avanzada y análisis de residuos.
 **EN:** The project was developed using Python, leveraging Pandas and NumPy for data manipulation, Scikit-Learn for statistical modeling and scaling, and Matplotlib/Seaborn for advanced data visualization and residual analysis.
 
