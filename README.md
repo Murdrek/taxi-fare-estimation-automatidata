@@ -18,8 +18,8 @@
 ### Feature Importance / Impacto de las Variables
 * **mean_distance (β=7.4771):
   
-* ** **ES:** El predictor dominante. Cada incremento de una desviación estándar en la distancia de la ruta añade $7.48 a la tarifa.
-* **EN:** The dominant predictor. Every one standard deviation increase in route distance adds $7.48 to the fare.
+* ** **ES:** El predictor dominante. Cada incremento de una desviación estándar en la distancia de la ruta añade 7.48 a la tarifa.
+* **EN:** The dominant predictor. Every one standard deviation increase in route distance adds 7.48 to the fare.
 * **mean_duration (β=2.4249):
   
 * ** **ES:** Segundo factor clave. La distancia influye tres veces más que el tiempo transcurrido en el vehículo.
@@ -76,4 +76,4 @@ Dado los componentes estructurales de los datos de tránsito en Nueva York, el m
     * **ES:** Indexar en exceso coordenadas geográficas puede generar sesgos algorítmicos contra vecindarios de menores ingresos, inflando los precios o reduciendo la disponibilidad de viajes. Las herramientas predictivas deben equilibrar la accesibilidad del pasajero con una compensación justa para el conductor.
 * **Data Privacy / Privacidad de Datos:**
     * **EN:** Combining location IDs with precise timestamps creates a spatiotemporal signature that risks re-identifying individuals' travel routines, requiring strict data governance and purpose limitation principles.
-    * **ES:** Combinar IDs de ubicación con marcas de tiempo precisas crea una firma espaciotemporal que corre el riesgo de re-identificar rutinas de viaje individuales, requiriendo una estricta gobernanza de datos y principios de limitación de propósito.ojects through transparent documentation, modular resources, and
+    * **ES:** Combinar IDs de ubicación con marcas de tiempo precisas crea una firma espaciotemporal que corre el riesgo de re-identificar rutinas de viaje individuales, requiriendo una estricta gobernanza de datos y principios de limitación de propósito.
